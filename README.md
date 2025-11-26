@@ -21,8 +21,8 @@ AI & automation • Python • Telegram bots • Integrations (Google APIs, Shee
 - Генерация/редактирование изображений (Nano-Banana via API)
 
 ## Рекомендательное письмо
-- RU (PDF): <вставь_ссылку_на_PDF>
-- EN (PDF): <insert_link_to_PDF>
+- RU: https://github.com/Tala2812/recommendations/blob/main/letters/recommendation_ru.md
+- EN: https://github.com/Tala2812/recommendations/blob/main/letters/recommendation_en.md
 
 ---
 
@@ -49,6 +49,6 @@ AI & automation • Python • Telegram bots • Google API integrations
 - Image generation & editing (Nano-Banana via API)
 
 ## Recommendation Letters
-- RU (PDF): <paste_PDF_link>
-- EN (PDF): <paste_PDF_link>
+- RU: https://github.com/Tala2812/recommendations/blob/main/letters/recommendation_ru.md
+- EN: https://github.com/Tala2812/recommendations/blob/main/letters/recommendation_en.md
 
