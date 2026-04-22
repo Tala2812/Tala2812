@@ -29,7 +29,7 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 - [Nutrition Bot (Salebot)](https://github.com/Tala2812/nutrition-bot-salebot)  
   → Персонализированный бот: анкетирование, расчёт КБЖУ, адаптивная логика рекомендаций
 
-  - [Telegram AI Bots](https://github.com/Tala2812/telegram-ai-bots)  
+- [Telegram AI Bots](https://github.com/Tala2812/telegram-ai-bots)  
   → Автоматизация общения, обработка сообщений, интеграция AI в Telegram
 
 ---
