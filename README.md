@@ -21,6 +21,12 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 
 ---
 
+## 🚀 Кейсы
+
+- [AI Image Generation (Nano Banana / Kie.ai)](https://github.com/Tala2812/ai-image-generation-kie-nanobanana)
+
+---
+
 ## 🚀 Ключевые проекты (Telegram-боты)
 
 * 🍳 **Бот-кулинарный ассистент** — рецепты, подсказки, сценарии приготовления
