@@ -23,8 +23,11 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 
 ## 🚀 Кейсы
 
-- [AI Image Generation (Nano Banana / Kie.ai)](https://github.com/Tala2812/ai-image-generation-kie-nanobanana)
-- [Nutrition Bot (Salebot)](https://github.com/Tala2812/nutrition-bot-salebot)
+- [AI Image Generation (Nano Banana / Kie.ai)](https://github.com/Tala2812/ai-image-generation-kie-nanobanana)  
+  → Генерация и редактирование изображений через API: production-ready функции, polling, валидация, интеграции  
+
+- [Nutrition Bot (Salebot)](https://github.com/Tala2812/nutrition-bot-salebot)  
+  → Персонализированный бот: анкетирование, расчёт КБЖУ, адаптивная логика рекомендаций  
 
 ---
 
