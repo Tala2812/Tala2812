@@ -8,7 +8,10 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![AI](https://img.shields.io/badge/AI-Image%20Generation-purple)
-![API](https://img.shields.io/badge/API-Kie.ai-green)
+![Kie.ai](https://img.shields.io/badge/API-Kie.ai-green)
+![Telegram](https://img.shields.io/badge/Telegram-Bots-2CA5E0)
+![Automation](https://img.shields.io/badge/Automation-Workflows-orange)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-Integration-red)
 
 ---
 
@@ -24,6 +27,7 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 * 🔎 **Бот-агент по поиску заказов/вакансий** — мониторинг hh.ru и fl.ru по ключевым словам
 * 🎨 **Бот генерации/редактирования изображений** — мультимодальные сценарии (prompt → image, image edit)
 * ✍️ **Бот-стилизатор текста** — переписывание фрагментов в заданном стиле (деловой / официальный / креативный)
+* 🥗 **Бот-нутрициолог (Salebot)** — персональные меню на основе анкетирования, расчёт КБЖУ, ветвящаяся логика сценариев и адаптация рекомендаций под пользователя
 
 ---
 
@@ -66,6 +70,7 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 ✔ AI-функции под платформы (SMAIPL-ready)
 ✔ Генерация изображений через API (Nano Banana / PRO / Nano Banana 2)
 ✔ Telegram-боты под ключ
+✔ Чат-боты с логикой продаж и удержания (Salebot)
 ✔ Интеграции с Google Sheets / Docs / APIs
 ✔ Автоматизация бизнес-процессов
 
@@ -80,6 +85,7 @@ AI & automation • Telegram bots • Kie.ai • Google APIs
 * Анализатор эмоций текста
 * Озвучивание текста/файлов (ElevenLabs), выдача .mp3
 * Генерация и редактирование изображений (Nano Banana / PRO / Nano Banana 2 через Kie.ai API)
+* Персонализированные сценарии питания (анкеты → расчёты → рекомендации)
 
 ---
 
@@ -112,6 +118,7 @@ I focus on combining technical reliability with clean and thoughtful user experi
 * 🔎 **Job/order search agent** — monitoring hh.ru and fl.ru by keywords
 * 🎨 **Image generation & editing bot** — multimodal pipelines (prompt → image, image edit)
 * ✍️ **Text style rewriter bot** — transforms text into business / formal / creative tone
+* 🥗 **Nutrition assistant bot (Salebot)** — personalized meal plans based on forms, calorie & macro calculations, adaptive recommendation logic
 
 ---
 
@@ -154,6 +161,7 @@ Developed production-ready functions for image generation and editing via Kie.ai
 ✔ AI functions for platforms (SMAIPL-ready)
 ✔ Image generation via API (Nano Banana family)
 ✔ Telegram bots development
+✔ Sales & logic-driven chatbots (Salebot)
 ✔ Google APIs integrations
 ✔ Business process automation
 
@@ -168,6 +176,7 @@ Developed production-ready functions for image generation and editing via Kie.ai
 * Text emotion analyzer
 * Voice generation (ElevenLabs) → .mp3
 * Image generation & editing (Nano Banana family via Kie.ai)
+* Personalized nutrition logic (forms → calculations → adaptive recommendations)
 
 ---
 
